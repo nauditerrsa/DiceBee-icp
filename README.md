@@ -41,7 +41,7 @@ DiceBee/
 ---
 
 ## Contact
-Created by [Your Name].
+Created by nauditerrsa.
 Feel free to reach out or contribute!
 
 ---
